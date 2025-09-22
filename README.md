@@ -88,5 +88,9 @@ flutter run
 This will build and install the app on your connected device, enabling you to test the Sanjivni application.
 
 ✅ With this setup, you’ll be able to explore Sanjivni’s technology stack firsthand and understand how it bridges the gap between rural communities and quality healthcare.
+<img width="455" height="863" alt="Screenshot 2025-09-22 220353" src="https://github.com/user-attachments/assets/b5ba4e85-584b-47c7-a3fe-3557f5659cca" />
+<img width="466" height="881" alt="Screenshot 2025-09-22 220552" src="https://github.com/user-attachments/assets/49ad4aaa-d5e6-40d1-995f-5cae70b6ecc5" />
+
+
 <img width="449" height="863" alt="Screenshot 2025-09-22 220819" src="https://github.com/user-attachments/assets/b9b4bc18-1ccc-4a49-8f81-15e409baa93b" />
 
